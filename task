@@ -1,0 +1,15 @@
+[x] List all resturants
+[x] Show one resturant
+[ ] Get resturant menu
+[ ] Update resturant
+[ ] Create resturant
+[ ] Delete resturant
+[ ] Search resturants using an array of words
+[ ] Create an order of some items from the resturant menu
+
+
+
+====================
+Accessors & Mutators in Eloquent
+
+Search food Menu Resturant 
